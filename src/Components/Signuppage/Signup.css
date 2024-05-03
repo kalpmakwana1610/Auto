@@ -1,0 +1,57 @@
+.form {
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+   flex-direction: column;
+  white-space: pre;
+  margin-top: 50px;
+}
+/* .signuppage{
+  background-color: rgb(190, 255, 233);
+   
+} */
+input {
+  margin: 10px;
+  width: 172px;
+   
+
+}
+.btm{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px  ;
+}
+.form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  /* margin-bottom: 20px; */
+}
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  border: solid 2px;
+  border-radius: 20px;
+  padding: 52px;
+  /* background-color: rgb(114, 224, 158); */
+}
+.error{
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+.logipage{
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+.register{
+  display: flex;
+  justify-content: center;
+}

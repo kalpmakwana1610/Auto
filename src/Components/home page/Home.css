@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: white;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.info{
+    margin-top: 25px;
+   
+    color: white;
+}
+.photo{
+    border: 1px solid white;
+}
